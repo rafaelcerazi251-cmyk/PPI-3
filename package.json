@@ -1,0 +1,24 @@
+{
+  "name": "ppi-3",
+  "version": "1.0.0",
+  "description": "atividade 3 ppi renato",
+  "homepage": "https://github.com/rafaelcerazi251-cmyk/PPI-3#readme",
+  "bugs": {
+    "url": "https://github.com/rafaelcerazi251-cmyk/PPI-3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelcerazi251-cmyk/PPI-3.git"
+  },
+  "license": "ISC",
+  "author": "rafael cerazi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
